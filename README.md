@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**21jake/21jake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align='right' src="https://media.giphy.com/media/l4FGrHErakgV8GRO0/giphy.gif" width="230">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Thang = {
+    nickname: "21jake",
+    code: ["Javascript", "Typescript", "PHP"],
+    askMeAbout: ["fullstack-dev", "tech", "translating"],
+    technologies: {
+        backEnd: {
+            js: ["node", "express"],
+            php: ["laravel"]
+        },
+        frontEnd: {
+            js: ["react", "jQuery"],
+            css: ["bootstrap"],
+           
+        },
+        libs: ["redux toolkit", "core UI", "material UI"]
+        databases: ["mongo", "MySql"]
+    },
+    architecture: ["Single page applications"],
+    currentFocus: "NodeJS-based backend development",
+    interests: ["tech", "cryptocurrency", "language"]
+};
+```
+
+## Personal Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=21jake&theme=dark&show_icons=true&repo=Binance-volatility-trading-bot-JS)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=21jake&theme=dark&show_icons=true&repo=CrackOverFlow)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+## This week, I spent my time on:
+
+[![Thang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=21jake&line_height=27&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Thang's github](https://github-readme-stats.vercel.app/api?username=21jake&theme=dark&show_icons=true)
