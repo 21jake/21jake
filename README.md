@@ -18,12 +18,12 @@ const Thang = {
             css: ["bootstrap"],
            
         },
-        libs: ["redux toolkit", "core UI", "material UI"]
+        libs: ["redux toolkit", "core UI", "material UI"],
         databases: ["mongo", "MySql"]
     },
     architecture: ["Single page applications"],
     currentFocus: "NodeJS-based backend development",
-    interests: ["tech", "cryptocurrency", "language"]
+    interests: ["tech", "language", "cryptocurrency"]
 };
 ```
 
