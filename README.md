@@ -7,7 +7,7 @@
 const Thang = {
     nickname: "21jake",
     code: ["Javascript", "Typescript", "PHP"],
-    askMeAbout: ["developer", "tech", "translating"],
+    askMeAbout: ["web-dev", "tech", "translating"],
     technologies: {
         backEnd: {
             js: ["node", "express"],
@@ -18,7 +18,7 @@ const Thang = {
             css: ["bootstrap"],
            
         },
-        libs: ["redux toolkit", "core UI", "material UI"],
+        libs: ["redux toolkit", "coreUI"],
         databases: ["mongo", "MySql"]
     },
     architecture: ["Single page applications"],
