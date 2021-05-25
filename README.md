@@ -7,7 +7,7 @@
 const Thang = {
     nickname: "21jake",
     code: ["Javascript", "Typescript", "PHP"],
-    askMeAbout: ["fullstack-dev", "tech", "translating"],
+    askMeAbout: ["developer", "tech", "translating"],
     technologies: {
         backEnd: {
             js: ["node", "express"],
