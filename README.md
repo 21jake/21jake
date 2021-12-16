@@ -6,7 +6,7 @@
 ```javascript
 const Thang = {
     nickname: "21jake",
-    code: ["Javascript", "Typescript", "PHP"],
+    code: ["Typescript", "Solidity", "PHP"],
     askMeAbout: ["web-dev", "tech", "translating"],
     technologies: {
         backEnd: {
@@ -16,14 +16,14 @@ const Thang = {
         frontEnd: {
             js: ["react", "jQuery"],
             css: ["bootstrap"],
-           
         },
-        libs: ["redux toolkit", "coreUI"],
-        databases: ["mongo", "MySql"]
+        smartContract: "Solidity",
+        libs: ["OpenZeppelin", "Hardhat", "redux toolkit", "coreUI"],
+        databases: ["mongo", "mySql"]
     },
-    architecture: ["Single page applications"],
-    currentFocus: "NodeJS-based backend development",
-    interests: ["tech", "language", "cryptocurrency"]
+    architecture: ["Upgradeable Smart Contracts", "Single page applications"],
+    currentFocus: "Smart-contract / D-app development",
+    interests: ["tech", "language", "cryptocurrency", "decentralization"]
 };
 ```
 
