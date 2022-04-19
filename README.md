@@ -5,9 +5,8 @@
 
 ```javascript
 const Thang = {
-    nickname: "21jake",
     code: ["Typescript", "Solidity", "PHP"],
-    askMeAbout: ["web-dev", "tech", "translating"],
+    askMeAbout: ["blockchain", "web-dev", "tech", "translating"],
     technologies: {
         backEnd: {
             js: ["node", "express"],
