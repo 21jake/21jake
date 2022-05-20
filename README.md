@@ -1,7 +1,7 @@
 # Hello there 👋
 
 
-<img align='right' src="https://media.giphy.com/media/l4FGrHErakgV8GRO0/giphy.gif" width="230">
+
 
 ```javascript
 const Thang = {
@@ -25,6 +25,7 @@ const Thang = {
     interests: ["tech", "language", "cryptocurrency", "decentralization"]
 };
 ```
+<!-- <img align='left' src="https://media.giphy.com/media/l4FGrHErakgV8GRO0/giphy.gif" width="230"> -->
 
 ## Personal Projects
 
