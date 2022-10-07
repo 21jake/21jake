@@ -9,19 +9,20 @@ const Thang = {
     askMeAbout: ["blockchain", "web-dev", "tech", "translating"],
     technologies: {
         backEnd: {
-            js: ["node", "express"],
+            js: ["nodeJs", "expressJs", "nestJs"],
             php: ["laravel"]
         },
         frontEnd: {
-            js: ["react", "jQuery"],
+            js: ["reactJs", "jQuery"],
             css: ["bootstrap"],
         },
         smartContract: "Solidity",
         libs: ["OpenZeppelin", "Hardhat", "redux toolkit", "coreUI"],
-        databases: ["mongo", "mySql"]
+        databases: ["mongoDb", "mySql"],
+        devOps: "Docker"
     },
     architecture: ["Upgradeable Smart Contracts", "Single page applications"],
-    currentFocus: "Smart-contract / D-app development",
+    currentFocus: "DevOps with Docker",
     interests: ["tech", "language", "cryptocurrency", "decentralization"]
 };
 ```
