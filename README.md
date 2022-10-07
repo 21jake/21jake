@@ -19,7 +19,7 @@ const Thang = {
         smartContract: "Solidity",
         libs: ["OpenZeppelin", "Hardhat", "redux toolkit", "coreUI"],
         databases: ["mongoDb", "mySql"],
-        devOps: "Docker"
+        devOps: ["Docker", "Swarm"]
     },
     architecture: ["Upgradeable Smart Contracts", "Single page applications"],
     currentFocus: "DevOps with Docker",
