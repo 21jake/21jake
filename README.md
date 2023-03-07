@@ -22,7 +22,7 @@ const Thang = {
         devOps: ["docker", "swarm"]
     },
     architecture: ["Upgradeable Smart Contracts", "Single page applications"],
-    currentFocus: "DevOps with Docker",
+    currentFocus: "K8s",
     interests: ["tech", "language", "cryptocurrency", "decentralization"]
 };
 ```
