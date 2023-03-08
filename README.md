@@ -30,8 +30,3 @@ const Thang = {
 
 
 
-## This week, I spent my time on:
-
-[![Thang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=21jake&theme=dark&line_height=27&v=2)]
-
-![Thang's github](https://github-readme-stats.vercel.app/api?username=21jake&theme=dark&show_icons=true)
