@@ -28,15 +28,6 @@ const Thang = {
 ```
 <!-- <img align='left' src="https://media.giphy.com/media/l4FGrHErakgV8GRO0/giphy.gif" width="230"> -->
 
-## Personal Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=21jake&theme=dark&show_icons=true&repo=Binance-volatility-trading-bot-JS)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=21jake&theme=dark&show_icons=true&repo=dao-practice)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=21jake&theme=dark&show_icons=true&repo=bridge-sample)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=21jake&theme=dark&show_icons=true&repo=CrackOverFlow)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## This week, I spent my time on:
