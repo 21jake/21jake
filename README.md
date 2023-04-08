@@ -6,10 +6,10 @@
 ```javascript
 const Thang = {
     code: ["Typescript", "Solidity", "PHP"],
-    askMeAbout: ["blockchain", "web-dev", "tech", "translating"],
+    askMeAbout: [ "web-dev","blockchain", "ops", "translating"],
     technologies: {
         backEnd: {
-            js: ["nodeJs", "expressJs", "nestJs"],
+            js: ["nodeJs", "nestJs"],
             php: ["laravel"]
         },
         frontEnd: {
@@ -21,9 +21,9 @@ const Thang = {
         databases: ["mongoDb", "mySql"],
         devOps: ["docker", "swarm"]
     },
-    architecture: ["Upgradeable Smart Contracts", "Single page applications"],
-    currentFocus: "K8s",
-    interests: ["tech", "language", "cryptocurrency", "decentralization"]
+    architecture: ["Single page applications", "Event driven", "Upgradeable smart contracts"],
+    currentFocus: "AWS",
+    interests: ["tech", "language", "cryptocurrency"]
 };
 ```
 <!-- <img align='left' src="https://media.giphy.com/media/l4FGrHErakgV8GRO0/giphy.gif" width="230"> -->
